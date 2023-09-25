@@ -1,0 +1,31 @@
+#hobby{
+  background-color: black;
+  color: aliceblue;
+}
+
+
+
+body{
+  /* The image used */
+  background-image: url("https://i.pinimg.com/564x/75/99/a7/7599a7afbb0ab26912fc6a65f69fe77b.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#book{
+  color: rgb(168, 251, 255);
+}
+
+#travel{
+  color: rgb(168, 251, 255);
+}
+
+#gym{
+  color: rgb(168, 251, 255);
+}
